@@ -1,6 +1,6 @@
 # Guía Paso a Paso: Crear y Publicar una Página Web Sencilla
 
-Este documento te guiará paso a paso para crear y publicar una página web sencilla en un servidor propio, ya sea en tu ordenador o en un servicio en la nube como AWS. ¡No necesitas experiencia previa!
+🧩 Este documento te guiará paso a paso para crear y publicar una página web sencilla en un servidor propio, ya sea en tu ordenador o en un servicio en la nube como AWS. ¡No necesitas experiencia previa!
 
 ---
 
